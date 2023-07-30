@@ -1,4 +1,6 @@
-### Hello there, I'm Famozzy 👋
+### Hello there, I'm Famozzy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="32" />
+
+<img src="https://discord.c99.nl/widget/theme-1/391529430343745542.png" />
 
 <!--
 **Famozzy/Famozzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
