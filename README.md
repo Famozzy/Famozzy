@@ -1,18 +1,13 @@
-### Hello there, I'm Famozzy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="32" />
+### Hello there, I'm Famozzy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="28" />
 
 <img src="https://discord.c99.nl/widget/theme-1/391529430343745542.png" />
 
-<!--
-**Famozzy/Famozzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>My Github Stats</summary><br/>
+  <p align="center">
+    <a href="https://github.com/Famozzy">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=a&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Famozzy&layout=compact&langs_count=10&theme=dark&bg_color=000000" />
+    <a/>
+  </p>
+</details>
