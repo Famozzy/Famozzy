@@ -13,7 +13,7 @@
 </details>
 
 <details>
-  <summary>My Github Stats</summary><br/>
+  <summary>Holopins</summary><br/>
   <p align="center">
     <a href="https://holopin.io/@famozzy">
       <img width="99%" src="https://holopin.me/famozzy" />
