@@ -1,4 +1,4 @@
-### Hello there, I'm Famozzy 👋
+### Hello there, I'm [Famozzy]("#") <img width="28" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif">
 
 ![discord online status](https://discord.c99.nl/widget/theme-1/391529430343745542.png)
 
