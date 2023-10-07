@@ -6,8 +6,8 @@
   <summary>Github Stats</summary><br/>
   <p align="center">
     <a href="https://github.com/Famozzy">
-      <img width="59.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Famozzy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000" />
-      <img width="39.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Famozzy&layout=compact&langs_count=10&theme=dark&bg_color=000000" />
+      <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Famozzy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000" />
+      <img width="39.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Famozzy&layout=compact&langs_count=10&theme=dark&bg_color=000000" />
     <a/>
   </p>
 </details>
@@ -16,7 +16,7 @@
   <summary>Holopin Badges</summary><br/>
   <p align="center">
     <a href="https://holopin.io/@famozzy">
-      <img width="99%" src="https://holopin.me/famozzy" />
+      <img src="https://holopin.me/famozzy" />
     <a/>
   </p>
 </details>
