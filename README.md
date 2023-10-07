@@ -7,7 +7,7 @@
   <p align="center">
     <a href="https://github.com/Famozzy">
       <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Famozzy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000" />
-      <img width="39.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Famozzy&layout=compact&langs_count=10&theme=dark&bg_color=000000" />
+      <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Famozzy&layout=compact&langs_count=10&theme=dark&bg_color=000000" />
     <a/>
   </p>
 </details>
