@@ -3,7 +3,7 @@
 ![discord online status](https://discord.c99.nl/widget/theme-1/391529430343745542.png)
 
 <details>
-  <summary>Github Stats</summary><br/>
+  <summary>🏆 Github Statistics</summary><br/>
   <p align="center">
     <a href="https://github.com/Famozzy">
       <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Famozzy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000" />
@@ -13,7 +13,7 @@
 </details>
 
 <details>
-  <summary>Holopin Badges</summary><br/>
+  <summary>🎖 Holopin Badges</summary><br/>
   <p align="center">
     <a href="https://holopin.io/@famozzy">
       <img src="https://holopin.me/famozzy" />
