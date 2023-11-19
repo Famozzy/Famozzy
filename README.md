@@ -1,6 +1,8 @@
-### Hello there, I'm [Famozzy]("#") <img width="28" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif">
+### Hello there, I'm [Famozzy]("https://github.com/Famozzy") <img width="28" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif">
 
-![Discord Presence](https://lanyard.cnrad.dev/api/391529430343745542?hideTimestamp=true&hideStatus=true&hideProfile=true&animated=false)
+![Discord Presence](https://lanyard.cnrad.dev/api/391529430343745542?hideTimestamp=true&hideStatus=true&hideProfile=true&animated=false)</br>
+![Profile Views](https://komarev.com/ghpvc/?username=Famozzy&style=for-the-badge)
+
 <details>
   <summary>🏆 Github Statistics</summary><br/>
   <p align="center">
