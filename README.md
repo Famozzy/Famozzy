@@ -14,7 +14,7 @@
 </details>
 
 <details>
-  <summary>🎖 Holopin Badges</summary><br/>
+  <summary>🎖️ Holopin Badges</summary><br/>
   <p align="center">
     <a href="https://holopin.io/@famozzy">
       <img src="https://holopin.me/famozzy" />
