@@ -1,7 +1,7 @@
 ### Hello there, I'm [Famozzy]("https://github.com/Famozzy") <img width="28" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif">
 
 ![Discord Presence](https://lanyard.cnrad.dev/api/391529430343745542?hideTimestamp=true&hideStatus=true&hideProfile=true&animated=false)</br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffamozzy%2Ffamozzy&count_bg=%232AC3DE&title_bg=%2324283B&icon=github.svg&icon_color=%23C0CAF5&title=Profile+views+%28today%2Fall+time%29&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffamozzy%2Ffamozzy&count_bg=%237AA2F7&title_bg=%2324283B&icon=github.svg&icon_color=%23C0CAF5&title=Profile+views+%28today%2Fall+time%29&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=Famozzy&style=for-the-badge) -->
 
 <details>
